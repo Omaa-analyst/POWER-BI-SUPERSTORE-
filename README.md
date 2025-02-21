@@ -1,5 +1,3 @@
-Got it! Since the Power BI report is for **Sales Analysis**, I'll draft a README with an overview, key features, and usage instructions. Here’s a structured version:  
-
  Superstore Sales Analysis Power BI Report  
 
  📌 Overview  
